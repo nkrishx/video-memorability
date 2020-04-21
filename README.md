@@ -1,1 +1,2 @@
 # video-memorability
+Pedicting the 'Video Memorability'- which is the extent to which a person can remember the video and its contents. It is an attempt at solving the MediaEval 2018 challenge. The organizers provide the particpants with a dataset containg off the shelf pre computed features and withold the ground truth of some videos. The participants are expected to come up with a machine learning solution to predict the ground truth for the witheld scores. Spearman's correlation is used a metic for testing the accuracy of the scores predicted. 
